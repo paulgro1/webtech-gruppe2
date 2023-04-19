@@ -1,4 +1,6 @@
-﻿### Bewertungsmatrix Discord  
+### Deliverable 1: Evaluation Tools für Plan - Team-Kommunikation
+
+#### Bewertungsmatrix Discord  
   
 |Kriterium|Bewertung|Gewichtung|Gewichteter Wert|
 |--|--|--|--|
@@ -13,7 +15,7 @@ Discord ist ein benutzerfreundliches Tool mit einer einfachen Oberfläche und mi
 
 Insgesamt erhält Discord eine Bewertung von 8.4 von 10, was es zu einem guten Tool für Team-Kommunikation macht.
 
-### Bewertungsmatrix Teams
+#### Bewertungsmatrix Teams
 
 | Kriterium | Bewertung | Gewichtung | Gewichteter Wert |
 | ---------| --------- | --------- | --------- |
@@ -30,7 +32,7 @@ Die Verfügbarkeit ist sehr hoch, was zu einer hohen Bewertung in diesem Kriteri
 
 Insgesamt erhält Microsoft Teams eine Bewertung von 8,95 von 10, was es zu einem hervorragenden Tool für Team-Kommunikation macht.
 
-### Bewertungsmatrix Slack
+#### Bewertungsmatrix Slack
 
 | Kriterium | Bewertung | Gewichtung | Gewichteter Wert |
 | ---------| --------- | --------- | --------- |
@@ -45,7 +47,7 @@ Slack ist ein benutzerfreundliches Tool mit einer einfachen Oberfläche und intu
 
 Insgesamt erhält Slack eine Bewertung von 8.55 von 10, was es zu einem guten Tool für Team-Kommunikation macht.
 
-### Empfehlung für ein Team-Kommunikations-Tool
+#### Empfehlung für ein Team-Kommunikations-Tool
 
 Basierend auf den oben genannten Bewertungsmatrizen ergibt sich folgendes Ranking der Tools:
 
