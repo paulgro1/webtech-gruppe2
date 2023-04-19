@@ -1,4 +1,6 @@
-﻿###   Bewertungsmatrix Trello
+### Deliverable 1: Evaluation Tools für Plan - Task-Tracking
+
+####   Bewertungsmatrix Trello
 
 | Kriterium | Bewertung | Gewichtung | Gewichteter Wert |
 | ---------| --------- | --------- | --------- |
@@ -17,7 +19,7 @@ Ein weiterer Vorteil von Trello ist, dass es eine kostenlose Version mit vielen 
 
 Insgesamt erhält Trello eine Bewertung von 8,5 von 10, was es zu einem guten Tool zur Organisation von Aufgaben und Projekten macht, insbesondere für Teams, die eine benutzerfreundliche, anpassbare und kostengünstige Lösung suchen.
 
-### Bewertungsmatrix Jira
+#### Bewertungsmatrix Jira
 
 | Kriterium | Bewertung | Gewichtung | Gewichteter Wert |
 | ---------| --------- | --------- | --------- |
@@ -36,7 +38,7 @@ Ein weiterer Nachteil von Jira ist, dass es im Vergleich zu anderen Tools relati
 
 Insgesamt erhält Jira eine Bewertung von 8,2 von 10, was es zu einem leistungsstarken Tool für die Projektverwaltung, insbesondere für Teams, die umfangreiche Funktionen und Integrationsmöglichkeiten benötigen, jedoch bereit sind, für diese Funktionen zu bezahlen.  
 
-### Bewertungsmatrix Github Issues
+#### Bewertungsmatrix Github Issues
 
 | Kriterium | Bewertung | Gewichtung | Gewichteter Wert 
 | ---------| --------- | --------- | --------- |
@@ -55,7 +57,7 @@ Ein großer Vorteil von Github Issues ist, dass es kostenlos ist, was zu einer s
 
 Insgesamt erhält Github Issues eine Bewertung von 8.55 von 10, was es zu einem einfachen und benutzerfreundlichen Tool für die Verwaltung von Issues und Projekten macht, insbesondere für Teams, die eine schnelle und einfache Lösung benötigen und keine umfangreichen Funktionen und Anpassungsmöglichkeiten benötigen.
 
-### Empfehlung für ein Task-Tracking-Tool
+#### Empfehlung für ein Task-Tracking-Tool
 
 Aus den Bewertungsmatrizen für Github Issues, Jira und Trello geht hervor, dass jedes Tool seine eigenen Vor- und Nachteile hat.
 
