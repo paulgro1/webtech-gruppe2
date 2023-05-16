@@ -1,6 +1,7 @@
 name: Build
 
-on: [push]
+on:
+  push
 
 jobs:
   build:
@@ -17,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      -name: Install vitest
+      - name: Install vitest
         run: npm install --save-dev vitest
 
       - name: Install Testing Library for React
