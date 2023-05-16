@@ -35,4 +35,16 @@ describe('App', () => {
         const pelem = container.querySelector('p');
         expect(pelem).toBeInTheDocument();
     });
+
+    it('Is there a button', () => {
+        const { container } = render(<App />);
+        const pelem = container.querySelector('button');
+        expect(pelem).not.toBeInTheDocument();
+    });
+
+    it('Is there a input bar', () => {
+        const { container } = render(<App />);
+        const pelem = container.querySelector('input');
+        expect(pelem).not.toBeInTheDocument();
+    })
 });
