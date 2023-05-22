@@ -10,9 +10,9 @@ on:
 jobs:
   Deploy-Production:
     runs-on: ubuntu-latest
-    
+
     strategy:
-      matrix: 
+      matrix:
         node-version: [16.x]
 
     steps:
@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      -name: Install vitest
+      - name: Install vitest
         run: npm install --save-dev vitest
 
       - name: Install Testing Library for React
@@ -41,6 +41,7 @@ jobs:
         run: npm run type-check
 
       - uses: actions/checkout@v2
+
       - name: Install Vercel CLI
         run: npm install --global vercel@latest
 
@@ -49,6 +50,6 @@ jobs:
 
       - name: Build Project Artifacts
         run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
-        
+
       - name: Deploy Project Artifacts to Vercel
         run: vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
