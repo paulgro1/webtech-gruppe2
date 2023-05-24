@@ -1,9 +1,12 @@
 {
   "compilerOptions": {
     "target": "ESNext",
+    "sourceMap": true,
+    "inlineSources": true,
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "module": "ESNext",
     "skipLibCheck": true,
+    "sourceRoot": "/",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
