@@ -22,6 +22,8 @@ function App() {
       <h1>This is my Hello World App</h1>
       <p>I have {quote?.phrase} please hire me</p>
 
+      <button onClick={() => methodDoesNotExist()}>Break the world</button>;
+
     </div>
 
     </>
