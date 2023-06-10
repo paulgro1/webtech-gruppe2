@@ -1,6 +1,6 @@
 # webtech-gruppe2
 
-Maryam Daliri,
+Mariam Daliri,
 Julius Brunken,
 Malik Torschchojew,
 Phillipp Schröder,
